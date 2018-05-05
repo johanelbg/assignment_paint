@@ -1,0 +1,24 @@
+.myCanvas{
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+}
+
+.colors{
+  border: 1px solid black;
+  height: 60px;
+  width: 500px;
+}
+
+.my-colors{
+  height: 80%;
+  display: inline-block;
+  width: 10%;
+  border-radius: 50%;
+  margin: 1%;
+}
+
+.resetButton, .size{
+  transform: translateY(-22px);
+  margin: 4px;
+}
